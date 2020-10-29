@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 青云草
 
 You can use the [editor on GitHub](https://github.com/Ephemeral-Echo/Ephemeral-Echo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
